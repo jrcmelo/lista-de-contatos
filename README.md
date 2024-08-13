@@ -1,4 +1,4 @@
-## :Emote: Titulo
+## 📓 Lista de contatos
 
 <h1>
     <img src="assets/img1.png" />
@@ -16,13 +16,14 @@
 
 ## 📕 Sobre
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the **1500s**, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Em andamento...
 
 <br>
 
 ## 🛠️ Executando projeto
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the **1500s**, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- Instale as dependências do projeto executando ``npm install`` no diretório do projeto.
+- Execute o comando ``npm start`` para iniciar um servidor de desenvolvimento local e gerar a build de desenvolvimento.
 
 <br>
 
