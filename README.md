@@ -28,10 +28,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## ⚙ Tecnologias Utilizadas
 
-<img src="assets/html.png" alt="HTML" />
-<img src="assets/css-3.png" alt="CSS3" />
-<img src="assets/js.png" alt="JavaScript" />
-<img src="assets/sass.png" alt="SASS" />
+<img src="assets/typescript.png" alt="TypeScript" />
+<img src="assets/physics.png" alt="React" />
+<img src="assets/redux.svg" alt="Redux" style="width: 32px; height: 32px;"/>
 
 <br>
 
